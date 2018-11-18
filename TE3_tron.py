@@ -8,7 +8,7 @@ fillcolor("yellow")
 begin_fill()
 
 for i in range(4):
-    circle(100,100)
+    circle(100)
 
 end_fill()
 
